@@ -1,5 +1,8 @@
 # Notação Big O
 
+
+![Imagem de Complexidade](https://cdn-media-1.freecodecamp.org/images/1*KfZYFUT2OKfjekJlCeYvuQ.jpeg)
+
 A notação Big O é uma maneira fundamental de comparar a eficiência de diferentes implementações de código. Permite-nos representar a complexidade do tempo de execução de algoritmos de maneira matemática, independentemente das especificidades da máquina ou do ambiente de execução.
 
 Considere que temos dois conjuntos de código que realizam a mesma tarefa, mas com implementações distintas:
