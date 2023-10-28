@@ -41,5 +41,5 @@ public class HashMaping {
     }
 
 ```
-## 3. Garbarage Collector
+## 3. Garbage Collector
 
